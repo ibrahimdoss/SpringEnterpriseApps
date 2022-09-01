@@ -1,0 +1,5 @@
+org.javaturk.spring.di.ch07.ex.calculator.conf.Test
+• Use @Configuration and @Beans to create beans.
+
+bu yapılmadı yapılacak.
+

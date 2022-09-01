@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="org.springframework.core.io.Resource"/>
+    <fullyQualifiedTypeName name="beanFactoryExampleDomain.BeanC"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.ObjectProvider"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="IocHistoryExample.GreetingProvider"/>
+    <fullyQualifiedTypeName name="IocHistoryExample.GreetingRenderer"/>
+    <fullyQualifiedTypeName name="IocHistoryExample.SelamGreetingProvider"/>
+    <fullyQualifiedTypeName name="beanFactoryExampleDomain.BeanA"/>
+    <fullyQualifiedTypeName name="beanFactoryExampleDomain.BeanB"/>
+</qualifiedTypeNameHistroy>

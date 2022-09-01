@@ -1,0 +1,10 @@
+Using XML files or annotations for configuration metadata has its own
+advantages and disadvantages.
+• XML files can get bigger easily which causes complexity but saves
+source code from configuration info leaving all beans as POJOs.
+• Annotations provide small and contextual information regarding beans
+making them developer-friendly but they make source code depended
+on annotations which are part of Spring and modification necessary
+when configuration changes.
+
+

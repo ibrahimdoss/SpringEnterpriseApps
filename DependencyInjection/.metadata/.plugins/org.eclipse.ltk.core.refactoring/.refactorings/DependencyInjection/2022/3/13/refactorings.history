@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DependencyInjection/src/main/java/ExampleOne/02 - Dependency Injection.pdf - Adobe Acrobat Pro DC.jpg&apos; to &apos;DI.jpg&apos;" description="Rename resource &apos;02 - Dependency Injection.pdf - Adobe Acrobat Pro DC.jpg&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/ExampleOne/02 - Dependency Injection.pdf - Adobe Acrobat Pro DC.jpg" name="DI.jpg" stamp="1648761053672" updateReferences="true"/>
+</session>

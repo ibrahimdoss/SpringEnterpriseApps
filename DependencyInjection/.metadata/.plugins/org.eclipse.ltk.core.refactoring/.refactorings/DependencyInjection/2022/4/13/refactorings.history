@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DependencyInjection/src/main/java/Association/CD1.png&apos; to &apos;Association.png&apos;" description="Rename resource &apos;CD1.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/Association/CD1.png" name="Association.png" stamp="1648844553704" updateReferences="true"/>
+</session>
